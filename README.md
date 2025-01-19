@@ -15,11 +15,10 @@
 Noah Rotbard | Dexnou
 -------------------------
 💻 I am a self-taught Full Stack Developer and QA Analyst Student
-📚 Currently studying at ORT Argentina, specializing in Informatics
-📝 Great interest in UX/UI, Crypto and everything that has to do
+📚 Currently studying at UADE, in the Computer Engineering career
+📝 Great interest in UX/UI, Crypto, ML and everything that has to do
 with creating websites or mobile applications
-🔭 Currently working on RAUM (a mobile app so that people with ASD
-can learn to communicate in a simpler way)
+🔭 Currently working on different projects with my friends
 🌟 Main languages: C#, JavaScript
 🎵 I love any type of music, I don't stick to just one style.
 ```
