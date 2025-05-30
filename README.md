@@ -18,7 +18,7 @@ Noah Rotbard | Dexnou
 📚 Currently studying at UADE, in the Computer Engineering career
 📝 Great interest in UX/UI, Crypto, ML and everything that has to do
 with creating websites or mobile applications
-🔭 Currently working on different projects with my friends
+🔭 Currently working on different university projects and with friends
 🌟 Main languages: C#, JavaScript
 🎵 I love any type of music, I don't stick to just one style.
 ```
